@@ -1,0 +1,3 @@
+edad 43
+nacimiento 1978
+septiembre
