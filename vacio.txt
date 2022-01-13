@@ -3,3 +3,5 @@ nacimiento 1978
 septiembre
 
 Esto me mostrara cambios
+
+Hoy esta aprendiendo a programar
